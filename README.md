@@ -8,3 +8,10 @@ checkout, tela de produto, catálogo, Home com banner
 ##### Melhorias:
 
 melhoria 1, melhoria 2
+
+### Linguanges do projeto:
+
+* HTML
+* CSS
+* JAVA
+* CSS
